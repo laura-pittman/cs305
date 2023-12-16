@@ -1,7 +1,6 @@
 # cs305
 
-Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
-What did you do very well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
+The newest client, Artemis Financial, is a consulting company that develops individualized financial plans for their customers. The client wants to modernize their operations, and as a crucial part of the success of their custom software, they also want to use the most current and effective software security. Something I did very well after finding security vulnerabilities in the client's software was immediately take action to thoroughly investigate each vulnerability to find an appropriate and effective solution. It is imperative to code securely to ensure the software and any information being utilized by it is protected and safe from anyone who may want to use said information in malicious ways. Software security adds value to a company's overall wellbeing as it allows employees and customers alike to know they can trust the company, their information is safe, and they are in good hands. 
 What part of the vulnerability assessment was challenging or helpful to you?
 How did you increase layers of security? In the future, what would you use to assess vulnerabilities and decide which mitigation techniques to use?
 How did you make certain the code and software application were functional and secure? After refactoring the code, how did you check to see whether you introduced new vulnerabilities?
